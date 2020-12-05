@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
 
 ## Quickstart
 
@@ -9,4 +9,5 @@
 ---
 
 * [Stackean Dashboard](https://app.cloud.stackean.com)
+* [Stacken Website](https://www.stackean.com)
 
