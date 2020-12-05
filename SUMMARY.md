@@ -4,7 +4,8 @@
 
 ## Quickstart
 
-* [Getting Started](quickstart/getting-started.md)
+* [Getting Started](quickstart/getting-started/README.md)
+  * [Untitled](quickstart/getting-started/untitled.md)
 
 ---
 
