@@ -10,11 +10,17 @@ description: >-
 
 In order to start working with Stackean, you need the appropriate account. So, if you don’t have one yet, register a new one via dashboard.
 
-![](../../.gitbook/assets/stackean-dashboard-signup-link.png)
-
+{% tabs %}
+{% tab title="Step 1" %}
 Click on question mark button on left bottom corner. Then follow Signup link. This will redirect you to signup form.
 
-![](../../.gitbook/assets/stackean-dashboard-signup-mail.png)
+![](../../.gitbook/assets/stackean-dashboard-signup-link.png)
+{% endtab %}
 
+{% tab title="Step 2" %}
 Enter your email address and click on sign up button.
+
+![](../../.gitbook/assets/stackean-dashboard-signup-mail.png)
+{% endtab %}
+{% endtabs %}
 
